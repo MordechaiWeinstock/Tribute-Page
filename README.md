@@ -1,2 +1,2 @@
-# Tribute-Page
-HTML and CSS project
+# Tribute Page
+![screenshot of the app](capture.png)
